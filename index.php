@@ -1,4 +1,4 @@
 <?php
-header("Location: https://pestssolution.us/nor/index.html");
+header("Location: https://www.mcafee.com/enterprise/en-gb/products/mvision-endpoint.html");
 die();
 ?>
