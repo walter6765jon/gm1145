@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.mcafee.com/enterprise/en-gb/products/mvision-endpoint.html");
+header("Location: https://www.youtube.com/channel/UCYfdidRxbB8Qhf0Nx7ioOYw");
 die();
 ?>
