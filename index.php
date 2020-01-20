@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actyou3/");
+header("Location: https://www.mcafee.com/en-us/vpn/mcafee-safe-connect.html");
 die();
 ?>
